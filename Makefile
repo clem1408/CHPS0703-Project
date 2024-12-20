@@ -1,15 +1,15 @@
-# Makefile for main.cpp
+# Makefile for main.cpp using seamcarving.h, seamcarving.cpp, and OpenCV
 
 # Compiler and flags
 CXX := g++
-CXXFLAGS := -Wall -Wextra -Ofast -std=c++17 -L/libm-install-dir/lib -lm
-LDFLAGS := -ltbb  -lopencv_core -lopencv_imgcodecs -lopencv_highgui -lopencv_imgproc
+CXXFLAGS := -Wall -Wextra -Ofast -std=c++17 -I/path/to/include `pkg-config --cflags opencv4`
+LDFLAGS := `pkg-config --libs opencv4` -ltbb  # Link the Intel TBB library and OpenCV
 
 # Target executable
-TARGET := projet
+TARGET := main
 
 # Source files
-SRC := projet.cpp 
+SRC := main.cpp seamcarving.cpp
 
 # Object files
 OBJ := $(SRC:.cpp=.o)
