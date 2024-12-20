@@ -56,3 +56,11 @@ Here are some examples of the algorithm on specified images.
 ![resized_rows-temple](https://github.com/user-attachments/assets/7496d422-241c-45a5-b9cd-a214a44b30a0)
 ![seamed_cols-temple](https://github.com/user-attachments/assets/c974c8f2-60b8-4e27-bffe-3ce95a350572)
 ![resized_cols-temple](https://github.com/user-attachments/assets/95f9e525-7c2d-4382-b14a-8b91118e2a99)
+
+<ins>A picture of Etretat in France (with 4000 seams):</ins>
+Ps: This is an image taken by myself in 12,000 x 9,000 resolution, which is too large for regular GitHub. That's why the images will be screenshots, as they are lighter.
+
+![etretat_seamed_rows](https://github.com/user-attachments/assets/51a0f301-e044-4406-ab28-81da7a443ec4)
+![etretat_resized_rows](https://github.com/user-attachments/assets/dd601873-d33e-43c6-8769-deff74f3b7b0)
+![etretat_seamed_cols](https://github.com/user-attachments/assets/6ca34edc-d9f7-4637-9564-36e6b8b87196)
+![etretat_resized_cols](https://github.com/user-attachments/assets/e2a3b2a2-4196-44bf-9ac8-7a4539df9101)
