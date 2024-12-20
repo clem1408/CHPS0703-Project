@@ -57,6 +57,13 @@ Here are some examples of the algorithm on specified images.
 ![seamed_cols-temple](https://github.com/user-attachments/assets/c974c8f2-60b8-4e27-bffe-3ce95a350572)
 ![resized_cols-temple](https://github.com/user-attachments/assets/95f9e525-7c2d-4382-b14a-8b91118e2a99)
 
+<ins>Bora-Bora image (with 333 seams):</ins>
+
+![seamed_rows-borbora](https://github.com/user-attachments/assets/4afea2cb-f9d5-4252-b5dd-c5a9a4f212bd)
+![resized_rows-borbora](https://github.com/user-attachments/assets/9e3e87c9-4e4a-456b-8d59-8afd8ef69185)
+![seamed_cols-borbora](https://github.com/user-attachments/assets/2d3ceffe-ef46-4fb6-b4b6-cbc48dbd20ac)
+![resized_cols-borbora](https://github.com/user-attachments/assets/2f95a32d-98fb-4b78-b296-56d80ed11a3a)
+
 <ins>A picture of Etretat in France (with 4000 seams):</ins>
 Ps: This is an image taken by myself in 12,000 x 9,000 resolution, which is too large for regular GitHub. That's why the images will be screenshots, as they are lighter.
 
