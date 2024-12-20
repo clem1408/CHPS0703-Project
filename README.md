@@ -66,6 +66,13 @@ Here are some examples of the algorithm on specified images.
 ![seamed_cols-borbora](https://github.com/user-attachments/assets/2d3ceffe-ef46-4fb6-b4b6-cbc48dbd20ac)
 ![resized_cols-borbora](https://github.com/user-attachments/assets/2f95a32d-98fb-4b78-b296-56d80ed11a3a)
 
+<ins>House image (with 500 seams):</ins>
+
+![seamed_rows-maison](https://github.com/user-attachments/assets/ec9d3e4b-23d6-4511-aacf-692c5c686931)
+![resized_rows-maison](https://github.com/user-attachments/assets/ade43639-5abc-4cb4-86a2-734284780405)
+![seamed_cols-maison](https://github.com/user-attachments/assets/12104090-75c6-48cd-be14-5d84c29d0258)
+![resized_cols-maison](https://github.com/user-attachments/assets/96f37660-375a-4249-89f9-f17e031718c6)
+
 <ins>A picture of Etretat in France (with 4000 seams):</ins>
 Ps: This is an image taken by myself in 12,000 x 9,000 resolution, which is too large for regular GitHub. That's why the images will be screenshots, as they are lighter.
 
