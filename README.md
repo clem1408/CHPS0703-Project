@@ -43,13 +43,6 @@ Here are some examples of the algorithm on specified images.
 ![seamed_cols-montagnes](https://github.com/user-attachments/assets/ebdfba28-7358-4257-acf3-57dab7d43f6e)
 ![resized_cols-montagnes](https://github.com/user-attachments/assets/ba0c78e6-7bf6-400f-a32e-962ccee5fc68)
 
-<ins>A dog (with 700 seams):</ins>
-
-![seamed_rows-chien](https://github.com/user-attachments/assets/a444787e-8a13-44b1-a48d-b0306ba0caa3)
-![resized_rows-chien](https://github.com/user-attachments/assets/6ab6672c-dab0-45c9-9d60-367630335755)
-![seamed_cols-chien](https://github.com/user-attachments/assets/781e4a9d-f6f0-408d-bd63-00df106f313b)
-![resized_cols-chien](https://github.com/user-attachments/assets/fb91b9a0-cda7-4301-aca7-e980cffaf77c)
-
 <ins>A bird (with 150 seams):</ins>
 
 ![seamed_rows-piaf](https://github.com/user-attachments/assets/6192e2d0-4a1c-4133-a411-ea37860889d0)
