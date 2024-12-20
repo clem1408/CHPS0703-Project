@@ -3,6 +3,8 @@ Project of CHPS0703 which consists of an seam-carving algorithm implementation.
 
 We chose to do it in C++ for better performance and because we didn't really like Python.
 
+**Note: This implementation requires the OpenCV library, make sure to install it.**
+
 # Usage : 
 
 To run this program, you need to first make the command:
