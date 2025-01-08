@@ -1,4 +1,4 @@
-*Collaborator : [elcald](https://github.com/ElCald) [kakugen]([https://github.com/ElCald](https://github.com/KaKug3n))*
+*Collaborator : [elcald](https://github.com/ElCald) [kakugen](https://github.com/KaKug3n)*
 
 # CHPS0703-Project :
 Project of CHPS0703 which consists of an seam-carving algorithm implementation.
